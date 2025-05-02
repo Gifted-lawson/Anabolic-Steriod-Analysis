@@ -1,7 +1,6 @@
-# Anabolic-Steriod-Analysis# 🧬 Anabolic Steroids Data Analysis & Dashboard
-
+# Anabolic-Steriod-Analysis# 🧬 Anabolic Steroids Data Analysis & Dashboard Visualization 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfS6rxXiEokY9AOCZBj0ZfTupAM_MtDAYGjg&s
- 
+
 This project presents an **Exploratory Data Analysis (EDA)** of a dataset containing information on various **anabolic steroids**. These synthetic compounds mimic testosterone and are often prescribed for legitimate medical conditions but are also frequently misused for performance and appearance enhancement. The dataset includes details such as each steroid's medicinal use, abuse purpose, reported side effects, molecular mass, and historical background.
 
 Using **Microsoft Excel**, this project uncovers patterns in the data through pivot-based aggregation and visualizations, culminating in an interactive dashboard suitable for presentations or decision-making.
