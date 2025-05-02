@@ -114,7 +114,7 @@ This project is for **educational and portfolio** purposes.
 
 ## 🙋‍♀️ Author
 
-**[Your Name]**  
+**[Enobong Lawson]**  
 *Aspiring Data Analyst | Excel | Data Visualization | Exploratory Analysis*
 
----
+---I am open for colaboration and Research. you can reach me via Email-michaelenobong5@gmail.com and also LinkedIn- Enobong Michael
